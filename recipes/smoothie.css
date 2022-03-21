@@ -1,0 +1,10 @@
+body {
+    color: rgb(231, 177, 186);
+    background: rgb(0,0,0);
+background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(81,22,101,1) 100%);
+}
+
+h2, h3, p, li {
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
